@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules
+
+# Database file
+db/*.db
+
+# Environment variables
+.env
+.env.test
+
+# Build directory
+build
+
+# IDE files
+.idea
